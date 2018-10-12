@@ -25,7 +25,7 @@
  * 
  * Wiring Diagram..........:
  * 3D printed enclosure....:
- * This code GitHub........:
+ * This code GitHub........: https://github.com/MirageC79/FilamentDryer_Controller
  * 
  * Created by:
  * Olivier Royer-Tardif (alias MirageC)
