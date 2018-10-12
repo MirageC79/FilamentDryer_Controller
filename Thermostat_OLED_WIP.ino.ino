@@ -43,6 +43,11 @@
  */
 
 
+/* Library References:
+- https://github.com/adafruit/Adafruit-GFX-Library
+- https://github.com/adafruit/Adafruit_SSD1306
+*/
+
 /*----------------USER DEFINED-----------------------*/
 #define ONE_WIRE_BUS 5                    
 #define CONTROL_RELAY 3
