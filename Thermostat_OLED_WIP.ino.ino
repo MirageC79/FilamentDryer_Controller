@@ -27,6 +27,12 @@
  * 3D printed enclosure....:
  * This code GitHub........: https://github.com/MirageC79/FilamentDryer_Controller
  * 
+ * Library Used: (V1.1)
+ * - OneWire.h from Paul Stoffregen...............https://github.com/PaulStoffregen/OneWire
+ * - Addafruit GFX:...............................https://github.com/adafruit/Adafruit-GFX-Library
+ * - Addafruit SSD1306............................https://github.com/adafruit/Adafruit_SSD1306
+ * - Arduino Temperature Control by milesburton...https://github.com/milesburton/Arduino-Temperature-Control-Library 
+ *
  * Created by:
  * Olivier Royer-Tardif (alias MirageC)
  * October 12th, 2018
@@ -35,6 +41,7 @@
  * 
  * Version    DATE                DESC                    RELEASED BY:
  * V1       12-Oct-2018       Initial release         Olivier Royer-Tardif
+ * V1.1     05-Jan-2019       Library Used listed     Olivier Royer-Tardif
  * 
  * Known Bugs
  * 1 - Memory issue if any additionnal variables added.
